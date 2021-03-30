@@ -4,4 +4,4 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mariocadenas&layout=compact&theme=dracula)
 
-![](https://github-readme-stats.vercel.app/api/wakatime?username=@mariocadenas&theme=dracula&layout=compact)
+![](https://github-readme-stats.vercel.app/api/wakatime?username=@mariocadenas&theme=dracula&layout=compact&t=1)
